@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 // const anLetters = ['a','e','f','h','i','l','m','n','o','r','s','x']
 
 // //function that accepts argument and parses it for each letter
